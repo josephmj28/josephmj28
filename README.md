@@ -23,7 +23,7 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][gmail]
 - 🧗 I am a creative student, passionate about learning and growth.
-- ⚡ Fun fact: I like frontend more than backend (I love web design.). :raised_hands:
+- ⚡ Fun fact: I like frontend more than backend (I love web design.). 
 
 <br>
 
